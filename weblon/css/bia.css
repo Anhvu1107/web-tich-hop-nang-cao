@@ -1,0 +1,14 @@
+/* Bạn có thể thêm các style tùy chỉnh ở đây nếu cần */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Ví dụ: Điều chỉnh header */
+header {
+    padding: 60px 0;
+}
+
+/* Ví dụ: Điều chỉnh container sản phẩm */
+#product-list {
+    min-height: 300px;
+}
